@@ -1,7 +1,7 @@
 # About
 A modified [HoshimiToolkit](https://github.com/MalitsPlus/HoshimiToolkit) for gkmas.</br>
 Please manually change **EncryptedCache/octocacheevai** for any manifest update.</br>
-(Current version in repository was **v42**)
+(Current version in repository was **v44**)
 
 # Settings in main.py
 download_asset = 1 for unity assets </br>
